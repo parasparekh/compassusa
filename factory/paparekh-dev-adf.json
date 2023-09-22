@@ -1,0 +1,9 @@
+{
+	"name": "paparekh-dev-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "198f7757-ada2-48ea-b8bf-0c716a42e817",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
